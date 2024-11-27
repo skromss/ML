@@ -1,0 +1,1 @@
+This task solves a classification problem. It is necessary to classify time series into two classes. The solution includes analysis of the provided data (EDA), the process of constructing and testing hypotheses, generating features from the training sample, training the model and prediction. The model is implemented using the tensorflow.keras library.
