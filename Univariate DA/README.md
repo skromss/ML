@@ -1,0 +1,1 @@
+Univariate data analysis is conducted in this task. The dataset are apartments selling records. The univariate Data Analysis helps to improve prediction model's quality by saving a lot of data, adding new features, outliers, missings, noise treating etc.
